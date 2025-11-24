@@ -1,6 +1,6 @@
 # TikTok-Task
 Authors: Joy Wang & Marco Firmender
-<br>Project: Comment Analysis on Vegan/Vegetarian TikTok Content
+Project: Comment Analysis on Vegan/Vegetarian TikTok Content
 
 This project explores how people respond to vegan and vegetarian content on social media. We collected comments from a TikTok video posted by a vegan creator and analyzed patterns in support and opposition toward plant-based diets. Our goal was to understand how viewers express their reactions and how these reactions show up in visibility metrics such as likes and replies.
 
